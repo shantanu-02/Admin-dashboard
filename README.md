@@ -1,6 +1,6 @@
 # ADMIN DASHBOARD
 
-- Demo: [Admin Dashboard live link](https://todo-app-alpha-self.vercel.app/)
+- Demo: [Admin Dashboard live link](https://admin-dashboard-tau-sand.vercel.app/)
 
   Welcome to the Admin Dashboard, a centralized hub for managing your application's content and users. This dashboard provides easy access to essential features and information, allowing administrators to efficiently oversee and maintain the system.
 
